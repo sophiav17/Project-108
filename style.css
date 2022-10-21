@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Lobster', serif;
+    background-color:burlywood;
+}
+.header_div
+{
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.p
+{
+    font-family: 'Lobster';
+    font-weight: bold;
+    letter-spacing: 13px;
+    font-size: 25px;
+}
+.main_div
+{
+    font-family: 'Lobster';
+    margin-top: 15px;
+    width: 20px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:maroon;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:aqua;
+    line-height: 3;
+    text-align: center;
+    text-shadow:crimson;
+}
+.h3
+{
+    text-align: center;
+    color: turquoise;
+}
+.h4
+{
+    text-align: center;
+    color: turquoise;
+}
